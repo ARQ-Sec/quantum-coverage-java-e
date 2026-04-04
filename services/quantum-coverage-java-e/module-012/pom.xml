@@ -1,0 +1,5 @@
+<project>
+  <dependencies>
+    <!-- com.nimbusds.jwt / io.jsonwebtoken / com.auth0.jwt nimbus-jose-jwt jjwt io.jsonwebtoken -->
+  </dependencies>
+</project>
